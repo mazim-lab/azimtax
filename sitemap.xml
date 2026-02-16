@@ -6,23 +6,28 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://your-domain.com/index.html</loc>
-  <lastmod>2026-02-13T06:01:00+00:00</lastmod>
+  <loc>https://azimtax.ca/index.html</loc>
+  <lastmod>2026-02-16T16:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://your-domain.com/blog/tax-deductions.html</loc>
+  <loc>https://azimtax.ca/blog/tax-deductions.html</loc>
   <lastmod>2026-02-13T06:01:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://your-domain.com/blog/expat-taxes.html</loc>
+  <loc>https://azimtax.ca/blog/expat-taxes.html</loc>
   <lastmod>2026-02-13T06:01:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://your-domain.com/blog/why-bookkeeping.html</loc>
+  <loc>https://azimtax.ca/blog/why-bookkeeping.html</loc>
   <lastmod>2026-02-13T06:01:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://azimtax.ca/blog/key-tax-dates-canadian-small-business-2026.html</loc>
+  <lastmod>2026-02-16T16:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
