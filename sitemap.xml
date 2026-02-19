@@ -7,8 +7,13 @@
 
 <url>
   <loc>https://azimtax.ca/index.html</loc>
-  <lastmod>2026-02-18T16:00:00+00:00</lastmod>
+  <lastmod>2026-02-19T16:00:00+00:00</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://azimtax.ca/blog/bookkeeping-best-practices-durham.html</loc>
+  <lastmod>2026-02-19T16:00:00+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://azimtax.ca/blog/rrsp-and-tax-tips-durham-2026.html</loc>
