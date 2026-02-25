@@ -7,8 +7,13 @@
 
 <url>
   <loc>https://azimtax.ca/index.html</loc>
-  <lastmod>2026-02-24T12:00:00+00:00</lastmod>
+  <lastmod>2026-02-25T12:00:00+00:00</lastmod>
   <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://azimtax.ca/blog/why-file-taxes-early-2026.html</loc>
+  <lastmod>2026-02-25T12:00:00+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://azimtax.ca/blog/top-5-tax-deductions-durham-small-business-2026.html</loc>
