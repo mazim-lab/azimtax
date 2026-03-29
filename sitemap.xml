@@ -6,6 +6,16 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
+  <loc>https://azimtax.ca/blog/hst-guide-renovators-contractors-durham.html</loc>
+  <lastmod>2026-03-29T01:53:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://azimtax.ca/index.html</loc>
+  <lastmod>2026-03-29T01:53:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
   <loc>https://azimtax.ca/blog/q1-bookkeeping-checklist-durham-businesses-2026.html</loc>
   <lastmod>2026-03-29T00:42:00+00:00</lastmod>
   <priority>0.80</priority>
@@ -88,11 +98,6 @@
   <loc>https://azimtax.ca/blog/guide-home-office-expenses-2026.html</loc>
   <lastmod>2026-02-27T18:56:00+00:00</lastmod>
   <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://azimtax.ca/index.html</loc>
-  <lastmod>2026-03-29T00:42:00+00:00</lastmod>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://azimtax.ca/blog/cra-prescribed-interest-rates-q2-2026.html</loc>
