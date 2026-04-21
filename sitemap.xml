@@ -2,9 +2,13 @@
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/sitemap.xsd">
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/sitemap.xsd">
 
+<url>
+  <loc>https://azimtax.ca/blog/seasonal-tax-planning-durham-small-businesses-spring-2026.html</loc>
+  <lastmod>2026-04-21T15:08:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://azimtax.ca/blog/spring-hst-checklist-durham-businesses-2026.html</loc>
   <lastmod>2026-04-07T15:08:00+00:00</lastmod>
@@ -47,7 +51,7 @@
 </url>
 <url>
   <loc>https://azimtax.ca/index.html</loc>
-  <lastmod>2026-04-02T15:08:00+00:00</lastmod>
+  <lastmod>2026-04-21T15:08:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
