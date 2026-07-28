@@ -4,6 +4,12 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/sitemap.xsd">
 
+
+<url>
+  <loc>https://azimtax.ca/blog/durham-business-news-late-summer-2026.html</loc>
+  <lastmod>2026-07-28T18:26:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 <url>
   <loc>https://azimtax.ca/blog/hst-checklist-durham-small-businesses-july-2026.html</loc>
   <lastmod>2026-07-21T15:08:00+00:00</lastmod>
@@ -111,7 +117,7 @@
 </url>
 <url>
   <loc>https://azimtax.ca/index.html</loc>
-  <lastmod>2026-07-21T15:08:00+00:00</lastmod>
+  <lastmod> 2026-07-28T18:26:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
