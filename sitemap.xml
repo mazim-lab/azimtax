@@ -5,6 +5,12 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/sitemap.xsd">
 
 <url>
+  <loc>https://azimtax.ca/blog/first-year-tax-checklist-new-durham-region-businesses.html</loc>
+  <lastmod>2026-11-24T16:08:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
   <loc>https://azimtax.ca/blog/durham-region-business-outlook-2027.html</loc>
   <lastmod>2026-11-17T16:08:00+00:00</lastmod>
   <priority>0.80</priority>
@@ -209,7 +215,7 @@
 </url>
 <url>
   <loc>https://azimtax.ca/index.html</loc>
-  <lastmod>2026-11-17T16:08:00+00:00</lastmod>
+  <lastmod>2026-11-24T16:08:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
